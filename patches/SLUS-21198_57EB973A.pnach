@@ -1,0 +1,17 @@
+gametitle=Batman Begins (NTSC-U) SLUS-21198 57EB973A
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PliskinDev
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,004052DC,word,3FE38E39
+patch=1,EE,0040532C,word,3FE38E39
+patch=1,EE,00405344,word,3FE38E39
+
+//[60 FPS]
+//author=PliskinDev
+//description==Make sure you set your EE Cycle Rate to 130-180%
+//patch=1,EE,00409BF4,byte,3C
+//patch=1,EE,00409C04,word,3C888889
+//patch=1,EE,00409BF8,word,3C888889
+//patch=1,EE,00409BFC,word,3C888889
