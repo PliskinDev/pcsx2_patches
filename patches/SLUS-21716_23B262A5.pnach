@@ -1,0 +1,53 @@
+gametitle=The Spiderwick Chronicles (NTSC-U) SLUS-21716 23B262A5
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PliskinDev
+description=Renders the game in 16:9 aspect ratio
+patch=1,EE,003B0290,extended,3F800000
+patch=1,EE,003B0294,extended,3F2AAAAB
+patch=1,EE,003B0298,extended,3FAAAAAA
+patch=1,EE,003B029C,extended,3F800000
+patch=1,EE,003D8FF8,extended,3F800000
+patch=1,EE,003D8FFC,extended,3E4CCCCD
+patch=1,EE,003D9000,extended,368677BD
+patch=1,EE,003D9004,extended,3FB8A60C
+patch=1,EE,003D9008,extended,3EAAAAAB
+patch=1,EE,003D9024,extended,3F2AAAAB
+patch=1,EE,003D9028,extended,3F800000
+patch=1,EE,003D902C,extended,3F4CCCCD
+patch=1,EE,003D958C,extended,3F800000
+patch=1,EE,003D9590,extended,BF800000
+patch=1,EE,003D9594,extended,3F490FDB
+patch=1,EE,003D9598,extended,368677BD
+patch=1,EE,003D95CC,extended,3F2AAAAB
+patch=1,EE,003D9624,extended,3F490FDB
+patch=1,EE,003D9628,extended,BF490FDB
+patch=1,EE,003D9630,extended,3F800000
+patch=1,EE,003D9634,extended,40000000
+patch=1,EE,003D9638,extended,3FC00000
+patch=1,EE,001CA1F0,extended,24060004
+patch=1,EE,001CA1F4,extended,3C05005D
+patch=1,EE,003F5F40,extended,3C023F40
+patch=1,EE,003F5F60,extended,3C063F2A
+patch=1,EE,0021960C,extended,3C013F40
+patch=1,EE,00219610,extended,44810000
+patch=1,EE,0021ACEC,extended,3C013F2A
+patch=1,EE,0021ACF0,extended,44810000
+patch=1,EE,0021B028,extended,3C013F40
+patch=1,EE,0021B02C,extended,44812000
+
+[60 FPS]
+author=PliskinDev
+description=Might need EE Overclock at 130%
+patch=1,EE,0023A79C,extended,00000000
+patch=1,EE,0023A7BC,extended,00000000
+patch=1,EE,00299E2C,extended,24100000
+patch=1,EE,00299E58,extended,00000000
+patch=1,EE,0023A7C4,extended,00000000
+patch=1,EE,0023A7C8,extended,3C023F80
+patch=1,EE,0023A7CC,extended,44820000
+patch=1,EE,0023A7D0,extended,00000000
+patch=1,EE,0023A7D4,extended,00000000
+patch=1,EE,0023A7D8,extended,00000000
+patch=1,EE,0023A7DC,extended,00000000
